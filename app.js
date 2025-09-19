@@ -58,33 +58,7 @@ const countries = [
   { code: "KES", name: "Kenyan Shilling" },
   { code: "TZS", name: "Tanzanian Shilling" },
   { code: "UGX", name: "Ugandan Shilling" },
-  { code: "GHS", name: "Ghanaian Cedi" },
-  { code: "RSD", name: "Serbian Dinar" },
-  { code: "BGN", name: "Bulgarian Lev" },
-  { code: "HRK", name: "Croatian Kuna" },
-  { code: "ISK", name: "Icelandic Krona" },
-  { code: "RON", name: "Romanian Leu" },
-  { code: "TWD", name: "Taiwan Dollar" },
-  { code: "LTL", name: "Lithuanian Litas" },
-  { code: "LVL", name: "Latvian Lats" },
-  { code: "SYP", name: "Syrian Pound" },
-  { code: "SDG", name: "Sudanese Pound" },
-  { code: "MMK", name: "Myanmar Kyat" },
-  { code: "KHR", name: "Cambodian Riel" },
-  { code: "LAK", name: "Lao Kip" },
-  { code: "UZS", name: "Uzbekistani Som" },
-  { code: "TMT", name: "Turkmenistani Manat" },
-  { code: "MDL", name: "Moldovan Leu" },
-  { code: "BYN", name: "Belarusian Ruble" },
-  { code: "UAH", name: "Ukrainian Hryvnia" },
-  { code: "GEL", name: "Georgian Lari" },
-  { code: "KGS", name: "Kyrgyzstani Som" },
-  { code: "MNT", name: "Mongolian Tugrik" },
-  { code: "FJD", name: "Fijian Dollar" },
-  { code: "PGK", name: "Papua New Guinean Kina" },
-  { code: "TOP", name: "Tongan Pa'anga" },
-  { code: "WST", name: "Samoan Tala" }
-  // Add more if needed
+  { code: "GHS", name: "Ghanaian Cedi" }
 ];
 
 // Populate dropdowns
